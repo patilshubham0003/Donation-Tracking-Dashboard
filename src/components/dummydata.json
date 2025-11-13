@@ -1,0 +1,10 @@
+[
+    { "donor": "Alice", "amount": 150 },
+    { "donor": "Bob", "amount": 200 },
+    { "donor": "Charlie", "amount": 75 },
+    { "donor": "Diana", "amount": 300 },
+    { "donor": "Ethan", "amount": 120 },
+    { "donor": "Fiona", "amount": 90 },
+    { "donor": "George", "amount": 400 },
+    { "donor": "Hannah", "amount": 250 }
+]
